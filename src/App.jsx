@@ -39,7 +39,7 @@ export default function App() {
         </p>
 
         <a
-          href="/Sam_Buck_Resume.pdf" // matches file in public/
+          href="/Buck_Resume_site.pdf" // matches file in public/
           target="_blank"
           rel="noopener noreferrer"
           style={{
