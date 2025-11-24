@@ -93,16 +93,14 @@ export default function App() {
           </li>
 
           <li style={{ marginBottom: 8 }}>
-            <strong>Jackbox-Style Party Game</strong> – Local network party game
+            <strong>Jackbox-Style Party Game (Justin Game)</strong> – Local network party game
             with a browser client and Node/WebSocket relay for real-time prompts,
             scoring, and audience participation.
-          </li>
-
-          <li style={{ marginBottom: 8 }}>
-            <strong>Justin Game (Python)</strong> – Narrative / logic game
+            Narrative / logic game
             prototype written in Python, built around a custom state machine and
             evolving story mechanics.
           </li>
+
         </ul>
       </section>
     </div>
