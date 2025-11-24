@@ -62,7 +62,7 @@ export default function App() {
       <ul>
         <li>FROST research pipeline (R)</li>
         <li>Obsidian collaboration plugin</li>
-        <li>Embedded Machine Learning Text Bubble Notifier</li>
+        {/* <li>Embedded Machine Learning Text Bubble Notifier</li> */}
         <li>Jackbox style party game</li>
         <li>Event Bingo App</li>
       </ul>
